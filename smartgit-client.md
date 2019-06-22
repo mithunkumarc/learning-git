@@ -1,4 +1,4 @@
-download samrtgit 
+download smartgit 
 
 1. smart git : client
 
