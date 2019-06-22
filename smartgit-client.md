@@ -1,3 +1,5 @@
+download samrtgit 
+
 1. smart git : client
 
 2. open smart git : terminal : ./smartgit.sh
